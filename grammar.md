@@ -40,5 +40,7 @@ tenses in Spanish.
     </tbody>
   </table>
 
+<h2>Spanish Verb Tense Table</h2>
+<p>Here is a table that can help you conjugate verbs in different tenses.</p>
 
-<img alt="Spanish Tense Chart for Anyone Studying Spanish : languagelearning" class="n3VNCb" src="https://external-preview.redd.it/GrIUiQk1rJi40JpbbZ9DDVyxFHnAqPIhkdUqI1XJFYY.png?auto=webp&amp;s=e3a1b6dd0388baa041f6be7e93fdaab8e493c241" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 400px; height: 309.091px; margin: 0px;">
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;" src="https://external-preview.redd.it/GrIUiQk1rJi40JpbbZ9DDVyxFHnAqPIhkdUqI1XJFYY.png?auto=webp&amp;s=e3a1b6dd0388baa041f6be7e93fdaab8e493c241" width="150" height="115">
