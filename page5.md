@@ -22,7 +22,7 @@
 
 
 
-<h2>Spanish people live longer<h2>
+<h2>Spanish people live longer</h2>
 <p>Spain has the second-highest life expectancy of all the OECD countries at an impressive 83 years. Only the Japanese have a higher life expectancy. Figures show that Spanish women are outliving their male counterparts: 85 years compared to 79 years for men.</p>  
 
 
@@ -42,7 +42,7 @@
 
 
 
-<h2>The winds of change<h2>
+<h2>The winds of change</h2>
 <p>Spain leads the way when it comes to renewable energy. In fact, it was the first country in the world to have wind as the greatest source of its electricity. Back in 2013, wind turbines generated just under 54,000-gigawatt-hours of electricity – a fifth of the nation’s usage.</p>
 
 
