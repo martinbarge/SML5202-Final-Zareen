@@ -1,7 +1,6 @@
 <h1>Language Learning Tips</h1>
 <p>Here are a few tips to help you learn Spanish:</p>
 
-<pre>
 <p>
 <h2><strong>Tips for Learning Spanish by Reading</strong></h2>
 
@@ -85,4 +84,3 @@
 
 <p><strong>In practice:</strong> The free community <a href="https://www.meetup.com/"><i>How Do You Do</i></a> has been set up for language learners to meet and chat online.</p>
 </p>
-</pre>
