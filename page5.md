@@ -5,7 +5,7 @@
 
 <h1>Spain Fun Facts</h1>
 
-<h4><strong>The EU’s second-largest country</strong></h4>
+<h3><strong>The EU’s second-largest country</strong></h3>
 <p>Spain is the second-largest country in the European Union after France. It measures up at around 506,000 square kilometers if you include the Canary Islands and the Spanish territories along the North African coastline.</p>
 
 
