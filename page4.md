@@ -44,7 +44,7 @@ This will allow you to get the reading practice you need in Spanish and quickly 
 <h3>Find a penpal</h3>
 <p>If you’d prefer to have more purpose to your writing than translating your work emails, consider searching for an overseas penpal. Getting a penpal is a great opportunity to practice while swapping cultural details with your new foreign friend.
 
-<strong>In practice:</strong> The internet makes it incredibly easy to connect with a penpal who has a similar language level and interests as you, and websites like <a href="https://www.interpals.net/"><i>Interpals<>/i</a> will help you get started.</p>
+<strong>In practice:</strong> The internet makes it incredibly easy to connect with a penpal who has a similar language level and interests as you, and websites like <a href="https://www.interpals.net/"><i>Interpals</i></a> will help you get started.</p>
 
 
 <h3>Read a Spanish children’s book</h3>
