@@ -38,13 +38,13 @@ This will allow you to get the reading practice you need in Spanish and quickly 
 <h3>Translate your work or study emails into Spanish</h3>
 <p>Whether it’s at work or school, most of us will put pen to paper (or fingers to keyboard) at least once a day. Be it an email, a bit of homework or a scribbled note to a loved one, use that fresh material to boost your Spanish.
 
-<strong>In practice:</strong> Pick one piece of writing from your day and translate it into Spanish. To look up unknown words, use <a href="https://www.wordreference.com/">Word Reference</a> or <a href="https://www.spanishdict.com/">SpanishDict</a>.</p>
+<strong>In practice:</strong> Pick one piece of writing from your day and translate it into Spanish. To look up unknown words, use <a href="https://www.wordreference.com/"><i>Word Reference</i></a> or <a href="https://www.spanishdict.com/"><i>SpanishDict</i></a>.</p>
 
 
 <h3>Find a penpal</h3>
 <p>If you’d prefer to have more purpose to your writing than translating your work emails, consider searching for an overseas penpal. Getting a penpal is a great opportunity to practice while swapping cultural details with your new foreign friend.
 
-<strong>In practice:</strong> The internet makes it incredibly easy to connect with a penpal who has a similar language level and interests as you, and websites like <a href="https://www.interpals.net/">Interpals will help you get started</a>.</p>
+<strong>In practice:</strong> The internet makes it incredibly easy to connect with a penpal who has a similar language level and interests as you, and websites like <a href="https://www.interpals.net/"><i>Interpals<>/i</a> will help you get started.</p>
 
 
 <h3>Read a Spanish children’s book</h3>
@@ -57,13 +57,13 @@ This will allow you to get the reading practice you need in Spanish and quickly 
 <h3>Listen to Spanish radio</h3>
 <p>Whether you’re the kind of person who likes the radio warbling on in the background or you prefer to have dedicated stints of listening to your favorite talk show, Spanish radio is one of the most useful forms of improving your Spanish listening without having to get out of your armchair.
 
-<strong>In practice:</strong> <a href="https://tunein.com/">TuneIn Radio</a> is a free resource online that will help you pick a station where you can listen to Spanish radio for free. Don’t forget to set a listening schedule so you build up your listening skills over time.</p>
+<strong>In practice:</strong> <a href="https://tunein.com/"><i>TuneIn Radio</i></a> is a free resource online that will help you pick a station where you can listen to Spanish radio for free. Don’t forget to set a listening schedule so you build up your listening skills over time.</p>
 
 
 <h3>Watch Telenovas</h3>
 <p>On paper, telenovelas might feel like the visual equivalent to listening to Spanish radio, but this method of learning Spanish has the significant advantage that you’re much more likely to get addicted to a telenovela than a radio show. Dramatic storylines, quirky characters, mesmerizing acting and, let’s be honest, the occasional bit of questionable facial hair, all stack up to make you want to sit down and binge your way through show after show, picking up Spanish as you go.
 
-<strong>In practice:</strong> <a href="https://www.fluentu.com/blog/spanish/best-telenovelas-for-learning-spanish/">“Maria la del Barrio“</a> is one of the most popular telenovelas in the world (180 countries) but you’ll find plenty of others <a href="https://www.fluentu.com/blog/spanish/learn-spanish-telenovela/">here</a>.</p>
+<strong>In practice:</strong> <a href="https://www.fluentu.com/blog/spanish/best-telenovelas-for-learning-spanish/"><i>“Maria la del Barrio“</i></a> is one of the most popular telenovelas in the world (180 countries) but you’ll find plenty of others <a href="https://www.fluentu.com/blog/spanish/learn-spanish-telenovela/">here</a>.</p>
 
 
 <h3>Listen to Music</h3>
@@ -76,11 +76,11 @@ This will allow you to get the reading practice you need in Spanish and quickly 
 <h3>Join a language exchange group and meet in person</h3>
 <p>For many new language learners, having the confidence to speak can be one of the hardest parts about Spanish, and may be the last part you tackle, but there’s no escaping it. Instead of waiting until you’re in a situation in a foreign country trying to order food, get some practice with native speakers at a language exchange. Most people are very sympathetic at meetups—they’re trying to achieve the same goal in your native language.
 
-<strong>In practice:</strong> Language exchanges are reasonably prolific. Check out <a href="https://www.meetup.com/">Meetup</a> to see if there’s one being hosted near you and if not, why not start your own?</p>
+<strong>In practice:</strong> Language exchanges are reasonably prolific. Check out <a href="https://www.meetup.com/"><i>Meetup</i></a> to see if there’s one being hosted near you and if not, why not start your own?</p>
 
 
 <h3>Find someone to chat with online</h3>
 <p>Not ready for a real-life situation just yet? Consider taking a step in the right direction with an online chat. Although it would be impolite to cut your conversation off mid-Spanish sentence, online chats do provide a pretty easy escape route (button) when you’re all talked out.
 
-<strong>In practice:</strong> The free community <a href="https://www.meetup.com/">How Do You Do</a> has been set up for language learners to meet and chat online.</p>
+<strong>In practice:</strong> The free community <a href="https://www.meetup.com/"><i>How Do You Do</i></a> has been set up for language learners to meet and chat online.</p>
 </p>
