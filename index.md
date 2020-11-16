@@ -22,6 +22,17 @@
 
 </ul>
 <p>One of my favorite language learning websites is <a href="https://www.duolingo.com/">Duolingo</a>.</p>
+
+<p>This website is to help you learn Spanish like me. It is also here to give you some information about the country of Spain, which is where I am going to study abroad, as well as the home of the type of Spanish language that I am referencing (i.e. European Spanish).</p>
+
+<p>General Facts about Spain:</p>
+<ul>
+    <li>Population: about 47 million people live in the Spain (2019)</li>
+    <li>Capital: Madrid with 3.3 million inhabitants</li>
+    <li>Name: Kingdom of Spain (Spanish: Reino de España)</li>
+    <li>Official Languages: Castillian (nationwide), Aranese in Catalonia, Basque in the Basque Country and Navarre, Catalan in Catalonia and the Balearic Islands, Galician in Galicia, Valencian in Valencia</li>
+    <li>Currency: 1 Euro = 100 cents</li>       
+</ul>
   
   </div>
 </div>
