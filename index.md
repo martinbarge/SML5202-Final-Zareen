@@ -5,7 +5,14 @@
 
 <p>Hi. My name's Zareen and this is my experimental website for course module <strong>SML5205.</strong></p>
 
+<div class="row">
+    <div class="col-sm-5">
+      <img alt="Rol del estudiante-sociedad conocimiento_MCEF" class="n3VNCb" src="https://3.bp.blogspot.com/-lO2lI_r4BbA/UWS7Q9R_i-I/AAAAAAAAAFw/2P_7qix_1UM/s1600/bg_hola.png" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 450px; height: 357.993px; margin: 0px;" />
+    </div>
+    <div class="col-sm-7" style="padding:5px;" >
+
 <p>Here are three things about me:</p>
+<ul>
 
 <ol>
   <li>My favourite food is potato</li>
@@ -13,10 +20,11 @@
   <li>I love to dance</li>
 </ol> 
 
+</ul>
 <p>One of my favorite language learning websites is <a href="https://www.duolingo.com/">Duolingo</a>.</p>
   
   </div>
-
+</div>
 
 <hr>
 
