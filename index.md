@@ -44,8 +44,8 @@
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20City.jpg?raw=true">
-        <img src="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20City.jpg?raw=true" alt="Spain City.jpg" style="width:100%">
+      <a href="images/Spain%20City.jpg">
+        <img src="images/Spain%20City.jpg" alt="Spain City.jpg" style="width:100%">
         <div class="caption">
           <p>Spain's cities are modern and grand.</p>
         </div>
@@ -54,8 +54,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20Beach.jpg?raw=true">
-        <img src="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20Beach.jpg?raw=true" alt="Spain Beach.jpg" style="width:100%">
+      <a href="images/Spain%20Beach.jpg">
+        <img src="images/Spain%20Beach.jpg" alt="Spain Beach.jpg" style="width:100%">
         <div class="caption">
           <p>Spain's beaches are beautiful and relaxing.</p>
         </div>
@@ -64,8 +64,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20Town.jpg?raw=true">
-        <img src="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20Town.jpg?raw=true" alt="Spain Town.jpg" style="width:100%">
+      <a href="images/Spain%20Town.jpg">
+        <img src="images/Spain%20Town.jpg" alt="Spain Town.jpg" style="width:100%">
         <div class="caption">
           <p>Spain's towns are culturally rich.</p>
         </div>
