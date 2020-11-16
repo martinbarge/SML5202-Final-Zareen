@@ -31,7 +31,7 @@
 
 <p><strong>In practice:</strong> <a href="https://www.fluentu.com/blog/spanish/spanish-tv-shows/">Here are five Spanish TV shows to get you started</a>, and <a href="https://www.fluentu.com/blog/spanish/spanish-immersion-tv/">here are 10 more winning shows from Spain.</a></p>
 
-
+<hr>
 
 <h2><strong>Tips for Learning Spanish by Writing</strong></h2>
 
