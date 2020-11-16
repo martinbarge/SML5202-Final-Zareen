@@ -18,11 +18,15 @@
   </div>
 
 
+<hr>
+
+<p> Spain, as well as having many languages, has a very different landscape depending on where you go, each with its own charm:</p>
+
 <div class="row">
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="Spain City.jpg">
-        <img src="Spain City.jpg" alt="Spain City" style="width:100%">
+      <a href="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20City.jpg?raw=true">
+        <img src="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20City.jpg?raw=true" alt="Spain City.jpg" style="width:100%">
         <div class="caption">
           <p>Spain's cities are modern and grand.</p>
         </div>
@@ -31,8 +35,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="Spain Beach.jpg">
-        <img src="Spain each.jpg" alt="Spain Beach" style="width:100%">
+      <a href="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20Beach.jpg?raw=true">
+        <img src="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20Beach.jpg?raw=true" alt="Spain Beach.jpg" style="width:100%">
         <div class="caption">
           <p>Spain's beaches are beautiful and relaxing.</p>
         </div>
@@ -41,8 +45,8 @@
   </div>
   <div class="col-md-4">
     <div class="thumbnail">
-      <a href="Spain Town.jpg">
-        <img src="Spain Town.jpg" alt="Spain Town" style="width:100%">
+      <a href="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20Town.jpg?raw=true">
+        <img src="/Zareen4/SML5202-Final-Zareen/blob/main/images/Spain%20Town.jpg?raw=true" alt="Spain Town.jpg" style="width:100%">
         <div class="caption">
           <p>Spain's towns are culturally rich.</p>
         </div>
