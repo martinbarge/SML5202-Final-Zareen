@@ -50,7 +50,7 @@
 <h3>Read a Spanish children’s book</h3>
 <p>Reading Spanish books and magazines is an excellent way to enhance your reading skills and the same methodology can be used to improve your Spanish writing. Children’s books are a great place to start because the language will be basic enough that you can read with relative ease.</p>
 
-
+<hr>
 
 <h2><strong>Tips for Learning Spanish by Listening</strong></h2>
 
@@ -69,7 +69,7 @@
 <h3>Listen to Music</h3>
 <p>Spanish covers of your favorite songs are best for Spanish learning as you already know the lyrics in English, so your brain makes the connection between the Spanish words and the meanings. You could also just listen to Spanish music which isalso very good!</p>
 
-
+<hr>
 
 <h2><strong>Tips for Learning Spanish by Speaking</strong></h2>
 
